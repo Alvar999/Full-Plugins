@@ -1,0 +1,4 @@
+- - Crashdetect - 4.19
+- - - Mysql - R34
+- - - - Streamer - 2.9.4
+- - - - - Sscanf - 2.8.3
